@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flow Messenger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activityinit">Activityinit</string>
+    <string name="title_activity_activityregistrar">Activityregistrar</string>
+    <string name="title_activity_activitymenu">Activitymenu</string>
+    <string name="title_activity_activitymensajes">Activitymensajes</string>
+    <string name="title_activity_activityenviados">Activityenviados</string>
+    <string name="title_activity_activityrecibidos">Activityrecibidos</string>
+
+</resources>
