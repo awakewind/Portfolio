@@ -1,0 +1,25 @@
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\parcial practico.exe.config
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\parcial practico.exe
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\parcial practico.pdb
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\parcial practico.xml
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial practico.vbprojResolveAssemblyReference.cache
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial_practico.frmLoggin.resources
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial_practico.Resources.resources
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial practico.vbproj.GenerateResource.Cache
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial practico.exe
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial practico.xml
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial practico.pdb
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial_practico.frmMenu.resources
+C:\Users\rikelmi\AppData\Local\Temporary Projects\parcial practico\obj\Debug\parcial_practico.frmCalculadora.resources
+E:\parcial\parcial practico\parcial practico\bin\Debug\parcial practico.exe.config
+E:\parcial\parcial practico\parcial practico\obj\Debug\parcial practico.exe
+E:\parcial\parcial practico\parcial practico\obj\Debug\parcial practico.xml
+E:\parcial\parcial practico\parcial practico\obj\Debug\parcial practico.pdb
+C:\Users\rikelmi\Documents\Visual Studio 2015\Projects\parcial practico\parcial practico\bin\Debug\parcial practico.exe.config
+C:\Users\rikelmi\Documents\Visual Studio 2015\Projects\parcial practico\parcial practico\obj\Debug\parcial practico.exe
+C:\Users\rikelmi\Documents\Visual Studio 2015\Projects\parcial practico\parcial practico\obj\Debug\parcial practico.xml
+C:\Users\rikelmi\Documents\Visual Studio 2015\Projects\parcial practico\parcial practico\obj\Debug\parcial practico.pdb
